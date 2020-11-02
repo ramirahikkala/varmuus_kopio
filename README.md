@@ -1,4 +1,4 @@
-# varmuus_kopio
+# varmuuskopio
 Creates backup copy of the two specific directories on USB stick(s)
 
 # How to create exe?
